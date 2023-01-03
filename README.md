@@ -37,9 +37,8 @@
   </div>
 
 
-<div align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AnujChhikara"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnujChhikara)](https://git.io/streak-stats)
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AnujChhikara.AnujChhikara)
 
