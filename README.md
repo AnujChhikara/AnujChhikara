@@ -28,7 +28,7 @@
 [![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujChhikara&theme=radical)](https://github.com/AnujChhikara/github-readme-stats)
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujChhikara&theme=tokyonight&layout=compact"/>
 
-<h2>🤝 Connect with me:</h3>
+<h2>🤝 Connect with me:-</h3>
 <div style="align-center">
 <a href="https://in.linkedin.com/in/anuj-chhikara-webdeveloper"><img align="left" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="40px"/></a>
 
