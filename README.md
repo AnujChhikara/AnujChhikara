@@ -25,7 +25,7 @@
 <hr/>
 
 
-[![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujChhikara&theme=radical)](https://github.com/AnujChhikara/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=AnujChhikara&theme=radical)](https://github.com/AnujChhikara/github-readme-stats)
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujChhikara&theme=tokyonight&layout=compact"/>
 
 <h2>🤝 Connect with me:-</h3>
