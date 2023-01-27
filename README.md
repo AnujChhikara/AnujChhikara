@@ -24,8 +24,7 @@
 </p>
 <hr/>
 
-
-(https://github-readme-stats.vercel.app/api?username=AnujChhikara&theme=radical)](https://github.com/AnujChhikara/github-readme-stats)
+[![Anuj's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AnujChhikara&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AnujChhikara/github-readme-stats#gh-dark-mode-only)
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujChhikara&theme=tokyonight&layout=compact"/>
 
 <h2>🤝 Connect with me:-</h3>
@@ -37,9 +36,7 @@
   </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnujChhikara)](https://git.io/streak-stats)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnujChhikara)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AnujChhikara.AnujChhikara)
-
 
