@@ -2,7 +2,7 @@
 
 * 👂 My name is Anuj Chhikara
 * 🌱 I’m currently learning Full Stack Development
-
+* 👋 Check my portfolio website <a href="https://anujchhikara.vercel.app/">Click here 🔗</a>
 
 <div align="center">
   <img width="250em" src="https://media4.giphy.com/media/br99SojJZ5rlfSYset/200w.webp?cid=ecf05e47vh01lqinjiarxa6hallf1rpfmf6iyirfw6jlvfiy&rid=200w.webp&ct=g"/>
