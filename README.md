@@ -7,8 +7,6 @@
 
 
 
-https://github-profile-trophy.vercel.app/?username=AnujChhikara&rank=S,AAA
-
 <h2> 🚀 &nbsp;My Tech Stack</h2>
 <p align="center">
 
