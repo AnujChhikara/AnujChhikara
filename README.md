@@ -34,4 +34,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AnujChhikara)
 
-https://platane.github.io/snk/
+![Snake animation](https://github.com/{{AnujChhikara}}/{{AnujChhikara}}/blob/output/github-contribution-grid-snake.svg)
