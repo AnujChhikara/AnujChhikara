@@ -7,7 +7,7 @@
 
 
 
-  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2> 🚀 &nbsp;My Tech Stack</h2>
 <p align="center">
