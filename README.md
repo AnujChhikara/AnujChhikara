@@ -34,4 +34,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AnujChhikara)
 
-![Snake animation](https://github.com/{{AnujChhikara}}/{{AnujChhikara}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AnujChhikara/AnujChhikara/blob/output/github-contribution-grid-snake.svg)
