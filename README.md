@@ -7,7 +7,7 @@
 
 
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AnujChhikara)](https://github.com/ryo-ma/github-profile-trophy)
+[  [![trophy](https://github-profile-trophy.vercel.app/?username=AnujChhikara)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA)
 
 <h2> 🚀 &nbsp;My Tech Stack</h2>
 <p align="center">
