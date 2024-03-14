@@ -17,10 +17,11 @@
   <img src="https://img.icons8.com/fluency/2x/node-js.png" alt="node" width="45" height="45"/>
   <img src="https://img.icons8.com/ios/2x/express-js.png" alt="express" width="45" height="45"/>
   <img src="https://img.icons8.com/color/2x/mongodb.png" alt="mongodb" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/2x/nextjs.png" alt="nextjs" width="45" height="45"/>
 </p>
 <hr/>
 
-[![Anuj's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AnujChhikara&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AnujChhikara/github-readme-stats#gh-dark-mode-only)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujChhikara&show_icons=true&theme=radical)
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujChhikara&theme=tokyonight&layout=compact"/>
 
 <h2>🤝 Connect with me:-</h3>
