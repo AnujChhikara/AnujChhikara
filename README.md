@@ -29,7 +29,7 @@
 <div> 
 
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnujChhikara&show_icons=true&theme=dark"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujChhikara&theme=darkt&layout=compact"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujChhikara&theme=dark&layout=compact"/>
 </div>
 
 <h2>🤝 Connect with me:-</h3>
@@ -40,6 +40,6 @@
 <a href="mailto:anujchhikara777@gmail.com"> <img src="https://www.svgrepo.com/show/421616/email-mail-web.svg" alt="email" height="40" ></a>
   </div>
 
+  <img height="200em" src="https://streak-stats.demolab.com/?user=AnujChhikara&theme=transparent"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AnujChhikara&theme=transparent)
 
