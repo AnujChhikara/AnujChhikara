@@ -34,7 +34,7 @@
 
 <h2>🤝 Connect with me:-</h3>
 <div style="align-center">
-<a href="https://in.linkedin.com/in/anuj-chhikara-webdeveloper"><img align="left" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="40px"/></a>
+<a href="https://in.linkedin.com/in/anujchhikara20"><img align="left" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="40px"/></a>
 
 <a href="https://twitter.com/AnujChhikara07"><img align="left" src="https://www.svgrepo.com/show/448252/twitter.svg" alt="Twitter" width="40px"/></a>
 <a href="mailto:anujchhikara777@gmail.com"> <img src="https://www.svgrepo.com/show/421616/email-mail-web.svg" alt="email" height="40" ></a>
